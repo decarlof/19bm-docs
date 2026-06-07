@@ -187,10 +187,9 @@ F3-30 filter unit
 :Materials: Si, Ge, and Cu filter media in two selectable banks
 :Cooling: water-cooled
 :EPICS prefix: TBD
-:Proposed bank arrangement
-   (`Alan Kastengren development notes
-   <https://anl.box.com/s/t1omsvb59zunqap6y4grc4dbg4skbv4u>`__,
-   2026-05-07):
+:Banks: Per the `Alan Kastengren development notes
+   <https://anl.box.com/s/t1omsvb59zunqap6y4grc4dbg4skbv4u>`__
+   (2026-05-07):
 
    - **Bank 1:** Open · Si 1000 µm · Ge 330 µm · Ge 830 µm · Cu 2000 µm
    - **Bank 2:** Open · Si 1000 µm · Ge 500 µm · Ge 1000 µm · *(slot 5 TBD)*
