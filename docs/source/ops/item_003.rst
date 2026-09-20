@@ -30,10 +30,8 @@ proposal fields that end up in the HDF5 metadata::
 without changing anything; run it first. ``dmagic tag`` then writes the
 user-info PVs.
 
-The same instructions are on the **DM tagging** screen reachable from
-``mct_main.adl`` (``~/bin/adl/DTaggingUpdate.adl``). You can also type the
-user last name, email and ``YYYY-MM`` directly into the MEDM screen if the
-scheduling system does not have what you need.
+You can also type the user last name, email and ``YYYY-MM`` directly into
+the MEDM screen if the scheduling system does not have what you need.
 
 If the tomoscan prefix ever needs overriding::
 
